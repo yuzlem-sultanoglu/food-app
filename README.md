@@ -1,4 +1,3 @@
-
 # Java Food Ordering App
 
 This is a simple **console-based food ordering app** written in Java.
